@@ -19,7 +19,7 @@ def third_element(array)
 end
 
 def last_element(array)
-  item = array.last
+  item = array[-1]
   return item
 end
 
