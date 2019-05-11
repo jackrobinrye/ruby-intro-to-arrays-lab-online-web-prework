@@ -28,3 +28,8 @@ def first_element_with_array_methods(array)
   return item
 end
 
+def last_element_with_array_methods(array)
+  item = array.last 
+  return item
+end
+
