@@ -23,3 +23,8 @@ def last_element(array)
   return item
 end
 
+def first_element_with_array_methods(array)
+  item = array.first 
+  return item
+end
+
