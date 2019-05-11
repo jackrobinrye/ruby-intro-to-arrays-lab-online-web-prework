@@ -13,4 +13,8 @@ def first_element(array)
   return item
 end
 
-def 
+def third_element
+  item = array[2]
+  return item
+end
+
